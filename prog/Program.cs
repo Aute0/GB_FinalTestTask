@@ -3,7 +3,7 @@
 // длина которых меньше либо равна 3 символа. Массив можно ввести с клавиатуры, либо
 // задать на старте алгоритма.
 
-string[] ArrayFirst = new string[6] { "2h", "p9", "59830", "23df", "res", "sonya" };
+string[] ArrayFirst = new string[6] { "2h", "p9", "59830", "2", "res", "sonya" };
 string[] ArrayLength = new string[ArrayFirst.Length];
 void ArraySolution(string[] ArrayFirst, string[] ArrayLength)
 
